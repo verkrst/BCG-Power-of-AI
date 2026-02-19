@@ -144,8 +144,6 @@ This trains the XGBoost model on historical data and generates `dataset/predicti
 streamlit run app.py
 ```
 
-Open [http://localhost:8501](http://localhost:8501) in your browser.
-
 ---
 
 
