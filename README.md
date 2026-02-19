@@ -149,10 +149,7 @@ streamlit run app.py
 
 | Notebook | Purpose |
 |----------|---------|
-| `full_pipeline.ipynb` | Initial exploratory data analysis |
-| `eda_final.ipynb` | Final consolidated EDA with feature engineering |
-| `model_map.ipynb` | XGBoost model training, evaluation & choropleth maps |
-| `eda_resilience.ipynb` | Composite resilience index (exploratory, not used in dashboard) |
+| `full_pipeline.ipynb` | Initial exploratory data analysis, model, shap, resilience index, maps |
 | `Modelling.ipynb` | Additional modelling experiments |
 
 ---
