@@ -43,9 +43,9 @@ ClientCo sources barley from across France. Climate change is altering temperatu
 
 | Scenario | Description |
 |----------|-------------|
-| **SSP1-2.6** | Optimistic — strong mitigation, warming peaks ~1.8°C |
-| **SSP2-4.5** | Middle road — moderate mitigation, warming ~2.7°C |
-| **SSP5-8.5** | Pessimistic — high emissions, warming ~4.4°C |
+| **SSP1-2.6** | Optimistic — strong mitigation |
+| **SSP2-4.5** | Middle road — moderate mitigation |
+| **SSP5-8.5** | Pessimistic — high emissions |
 
 ---
 
