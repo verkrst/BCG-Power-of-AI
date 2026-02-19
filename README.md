@@ -168,14 +168,3 @@ streamlit run app.py
 - **Pandas / NumPy** — data processing
 - **PyArrow** — Parquet file I/O
 
----
-
-## 👥 Team
-
-Built as part of a consulting engagement for **ClientCo** to support ESG-aligned barley sourcing strategy under climate uncertainty.
-
----
-
-## 📄 License
-
-This project is for educational and consulting purposes. Please refer to the repository license for usage terms.
